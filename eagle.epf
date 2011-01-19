@@ -1,0 +1,44 @@
+[Eagle]
+Version="05 10 00"
+Platform="Linux"
+Serial="62191E841E-LSR-WLM-1EL"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="/home/nate/.eagle/lbr/74xx-us.lbr"
+UsedLibrary="/home/nate/.eagle/lbr/analog-devices.lbr"
+UsedLibrary="/home/nate/.eagle/lbr/battery.lbr"
+UsedLibrary="/home/nate/.eagle/lbr/buzzer.lbr"
+UsedLibrary="/home/nate/.eagle/lbr/con-molex.lbr"
+UsedLibrary="/home/nate/.eagle/lbr/diode.lbr"
+UsedLibrary="/home/nate/.eagle/lbr/discrete.lbr"
+UsedLibrary="/home/nate/.eagle/lbr/fairchild-semic.lbr"
+UsedLibrary="/home/nate/.eagle/lbr/fuse.lbr"
+UsedLibrary="/home/nate/.eagle/lbr/holes.lbr"
+UsedLibrary="/home/nate/.eagle/lbr/inductors.lbr"
+UsedLibrary="/home/nate/.eagle/lbr/led-7-segment.lbr"
+UsedLibrary="/home/nate/.eagle/lbr/led.lbr"
+UsedLibrary="/home/nate/.eagle/lbr/national-instruments.lbr"
+UsedLibrary="/home/nate/.eagle/lbr/national-semiconductor.lbr"
+UsedLibrary="/home/nate/.eagle/lbr/pot.lbr"
+UsedLibrary="/home/nate/.eagle/lbr/resistor.lbr"
+UsedLibrary="/home/nate/.eagle/lbr/special.lbr"
+UsedLibrary="/home/nate/.eagle/lbr/transistor-fet.lbr"
+UsedLibrary="/home/nate/.eagle/lbr/transistor-npn.lbr"
+UsedLibrary="/home/nate/.eagle/lbr/transistor-pnp.lbr"
+UsedLibrary="/home/nate/.eagle/lbr/transistor-power.lbr"
+UsedLibrary="/home/nate/.eagle/lbr/transistor-small-signal.lbr"
+UsedLibrary="/home/nate/.eagle/lbr/transistor.lbr"
+UsedLibrary="/home/nate/.eagle/lbr/triac.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="0 24 599 423"
+State=2
+Number=0
+
+[Desktop]
+Screen="1920 1080"
+Window="Win_1"
