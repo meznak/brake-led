@@ -1,4 +1,4 @@
-PCBNEW-BOARD Version 1 date Wed 14 Mar 2012 11:50:37 PM MST
+PCBNEW-BOARD Version 1 date Thu 15 Mar 2012 01:38:57 AM MST
 
 # Created by Pcbnew(2011-05-25)-stable
 
@@ -62,7 +62,7 @@ PadDrill 320
 Pad2MaskClearance 100
 GridOrigin 36000 20250
 AuxiliaryAxisOrg 36000 20250
-PcbPlotParams (pcbplotparams (layerselection 3178497) (usegerberextensions true) (excludeedgelayer true) (linewidth 60) (plotframeref false) (viasonmask false) (mode 1) (useauxorigin false) (hpglpennumber 1) (hpglpenspeed 20) (hpglpendiameter 15) (hpglpenoverlay 0) (pscolor true) (psnegative false) (psa4output false) (plotreference true) (plotvalue true) (plotothertext true) (plotinvisibletext false) (padsonsilk false) (subtractmaskfromsilk false) (outputformat 1) (mirror false) (drillshape 1) (scaleselection 1) (outputdirectory ""))
+PcbPlotParams (pcbplotparams (layerselection 1) (usegerberextensions true) (excludeedgelayer false) (linewidth 60) (plotframeref false) (viasonmask false) (mode 1) (useauxorigin false) (hpglpennumber 1) (hpglpenspeed 20) (hpglpendiameter 15) (hpglpenoverlay 0) (pscolor true) (psnegative false) (psa4output false) (plotreference true) (plotvalue false) (plotothertext true) (plotinvisibletext false) (padsonsilk false) (subtractmaskfromsilk false) (outputformat 1) (mirror false) (drillshape 1) (scaleselection 1) (outputdirectory ""))
 $EndSETUP
 
 $EQUIPOT
@@ -2228,11 +2228,11 @@ Ro 0.000000 0.000000 0.000000
 $EndSHAPE3D
 $EndMODULE  C2V10
 $MODULE C2V10
-Po 39750 38250 1800 15 4F6190E8 4F5EE25D ~~
+Po 39750 38250 1800 15 4F6190E8 4F61AAA2 ~~
 Li C2V10
 Cd Condensateur polarise
 Kw CP
-Sc 4F5EE25D
+Sc 4F61AAA2
 AR /4F5ED280
 Op 0 0 0
 T0 2500 1500 500 500 1800 100 N V 21 N "C1"

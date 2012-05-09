@@ -1,6 +1,6 @@
-update=Mon 12 Mar 2012 10:58:41 PM MST
+update=Tue 08 May 2012 09:34:21 PM MST
 version=1
-last_client=pcbnew
+last_client=kicad
 [cvpcb]
 version=1
 NetITyp=0
@@ -11,8 +11,6 @@ LibDir=
 NetType=0
 [cvpcb/libraries]
 EquName1=devcms
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=
@@ -93,7 +91,7 @@ TxtLar=120
 MSegLar=150
 LastNetListRead=brake.net
 [pcbnew/libraries]
-LibDir=
+LibDir=../lib
 LibName1=sockets
 LibName2=connect
 LibName3=discret
@@ -104,3 +102,6 @@ LibName7=display
 LibName8=valves
 LibName9=led
 LibName10=dip_sockets
+LibName11=oshw-logo-kicad-scalable/oshw-logo
+[general]
+version=1
